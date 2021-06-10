@@ -1,0 +1,4 @@
+[g-coef]
+[is_collidible]
+
+{[x] [y] [vx] [vy] [r] [bouncing_coefficient] [red] [green] [blue]}
