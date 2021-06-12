@@ -4,7 +4,7 @@ Exmaple-maps are the exmaple_0-2.map files in the main directory
 
 Maps are constucting by the template in map_example.txt
 
-====================================================================
+======================================================
 
 Left-click creates a new sphere
 
